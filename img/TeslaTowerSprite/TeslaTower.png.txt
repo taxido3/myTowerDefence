@@ -1,0 +1,1 @@
+TeslaTower_01.png.png 20 20, TeslaTower_.png.png 168 21, TeslaTower_02.png.png 148 20, TeslaTower_.png.png 215 25, TeslaTower_.png.png 214 94, TeslaTower_03.png.png 20 148, TeslaTower_04.png.png 20 20, TeslaTower_05.png.png 168 21, TeslaTower_06.png.png 148 20.

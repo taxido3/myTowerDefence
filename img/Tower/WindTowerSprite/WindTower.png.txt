@@ -1,0 +1,1 @@
+WindTower_01.png.png 20 20, WindTower_02.png.png 148 20, WindTower_.png.png 213 34, WindTower_03.png.png 20 148, WindTower_04.png.png 148 148, WindTower_05.png.png 20 276, WindTower_06.png.png 20 20.

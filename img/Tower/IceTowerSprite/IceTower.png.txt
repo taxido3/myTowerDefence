@@ -1,0 +1,1 @@
+IceTower_01.png.png 18 18, IceTower_02.png.png 146 18, IceTower_03.png.png 18 146, IceTower_04.png.png 146 146, IceTower_05.png.png 18 274, IceTower_06.png.png 146 274.

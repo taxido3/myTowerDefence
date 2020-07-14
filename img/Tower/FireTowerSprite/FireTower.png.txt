@@ -1,0 +1,1 @@
+FireTower_01.png.png 20 20, FireTower_02.png.png 148 20, FireTower_03.png.png 20 148, FireTower_04.png.png 148 148, FireTower_05.png.png 20 276, FireTower_06.png.png 148 276.
