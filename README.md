@@ -22,3 +22,7 @@ but there were my solutions and i got to understand (and feel) the problems. I s
 
 A towerdefence-game has three major challenges:
   1. An editor, to build your tower, free on a grid (in my case: 
+  2. Proper connection between the tower and there targets, for proper hits
+  3.Pathfinding of the enemys
+
+Unfortunately the three days wherend enough to reach the pathfining task (allthough it was the one, which i was looking forward to), but i'm strongly motivatet to finish the projekt sometime.
