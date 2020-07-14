@@ -13,7 +13,7 @@ The last project i have worked on, was a final exercise for the javacourse of my
 
 We only had three days. Monday was a hollyday, friday we had to present. The shape, interface and usage of the Java-application was for us to choose.
 
-We allready known a week earlier, that a final like this would come, so i brainstromt on the week-end and allready hat my flowcharts, ER-Tables and UMLs ready.
+We allready known a week earlier, that a final like this would come up, so i brainstromt on the week-end and allready had my flowcharts, ER-Tables and UMLs ready.
 
 My idea was to build a towerdefence-game from the scratch, especially because i asume, that i would never have the time, reson and opportunity again to build something like this realy from the scratch
 and only out of my ideas. As i see it, its much more common, to build up on pre-existing frameworks and engines, which is much more efficent (you dont have to invent the wheele everytime again)
